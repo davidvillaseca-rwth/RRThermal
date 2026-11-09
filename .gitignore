@@ -1,0 +1,15 @@
+# Python environment and caches
+.venv312/
+__pycache__/
+*.pyc
+
+# Datasets (download separately, see DOCUMENTATION.md)
+data/
+
+# Large generated videos; figures, CSVs and landmarks stay tracked
+outputs/**/*.mp4
+
+# Windows / Office clutter
+Thumbs.db
+desktop.ini
+~$*

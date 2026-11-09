@@ -1,0 +1,11 @@
+matplotlib==3.11.2
+neurovc==0.1.1
+numpy==2.5.2
+onnxruntime==1.31.1
+opencv-python==5.0.0.93
+scipy==1.18.1
+thermal-face-alignment==1.0.0
+timm==1.0.30
+torch==2.14.1+cpu
+torchvision==0.29.1+cpu
+yolov5-face==0.0.2
